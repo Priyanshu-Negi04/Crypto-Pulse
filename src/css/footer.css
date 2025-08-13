@@ -1,0 +1,9 @@
+.footer{
+    text-align:center;
+    margin: auto;
+    border-top: 2px solid #989898;
+    padding: 25px 0px;
+    font-size: 20px;
+    
+    background: linear-gradient(135deg, #4d4db0ff 0%, #121a43ff 60%, #cd4af859 100%);
+}
