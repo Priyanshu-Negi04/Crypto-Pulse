@@ -6,12 +6,11 @@
 
 # 🚀 CrypoPulse — Track Crypto Like Never Before 🔍
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://your-live-demo-link.com) 
-![License](https://img.shields.io/github/license/yourusername/your-repo?color=green)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/your-repo?color=blue)
-![Issues](https://img.shields.io/github/issues/yourusername/your-repo)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://crypto-pulse-track.netlify.app/) 
+![Last Commit](https://img.shields.io/github/last-commit/Priyanshu-Negi04/Crypto-Pulse?color=blue)
+![Issues](https://img.shields.io/github/issues/Priyanshu-Negi04/Crypto-Pulse)
 
-[**Visit Live Demo**](https://your-live-demo-link.com) 🚀
+[**Visit Live Demo**](https://crypto-pulse-track.netlify.app/) 🚀
 
 ---
 
@@ -21,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
 - **API:** CoinGecko API  
 - **Deployment:** Vercel
 
@@ -82,10 +81,10 @@ Production files are in the `build` folder, ready to deploy.
 ## 👀 Sneak Peek
 
 <p align="center">
-  <img src="demo1.png" width="380" alt="App Screenshot 1" />
+  <img src="demo1.png" alt="App Screenshot 1" />
   </br>
   </br>
-  <img src="demo2.png" width="380" alt="App Screenshot 2" />
+  <img src="demo2.png" alt="App Screenshot 2" />
 </p>
 
 ---
